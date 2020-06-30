@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "EIApplication": [
     {
        "id":1,
-       "ApplicationID": "185764656",
+       "DetermineTypeOfClaimResult": "ab084e2e-def7-4860-bfbe-3ca36f78bcb2",
        "SessionId":"12345"   
     }
   ],
