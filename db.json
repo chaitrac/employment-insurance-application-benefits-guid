@@ -1,11 +1,12 @@
 {
-  "EIApplication": [
-    {
+  "EIApplication": 
+    { "data" {
        "id":1,
        "DetermineTypeOfClaimResult": "ab084e2e-def7-4860-bfbe-3ca36f78bcb2",
        "SessionId":"12345"   
     }
-  ],
+    }
+  ,
   "profile": {
     "name": "typicode"
   }
